@@ -1,0 +1,13 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.21-fabric-1.3.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/9ID0SKIC/EquipmentCompare-1.21-fabric-1.3.12.jar"
+hash-format = "sha512"
+hash = "9389b1b8507f8d1fea18f357bd4ebab137f7b2e20d0c0aca0d037c72391376f145b0c845f993299758b443584f16dfb8507eff3d2d978855ad432af023e9f878"
+
+[update]
+[update.modrinth]
+mod-id = "CYSUVOdj"
+version = "9ID0SKIC"
