@@ -29,7 +29,33 @@ By default, the game comes with the Pixel Perfect shaderpack enabled, and a capp
 
 This modpack targets 30 FPS on Steam Deck when limiting the TDP to 8 watts. However, if you don't mind sacrificing battery life, you can always uncap your framerate for a smoother experience. Additionally, even with the 8-watt TDP setting, you should achieve a 60/90 FPS target when using VanillAA or disabling shaders altogether.
 
-This modpack is not yet perfect in some areas wrt performance. For example,
+The modpack is not yet perfect in some areas wrt performance. For example,
 frametime may dip when chunks are loading or generating during usual gameplay.
 As I explore further ways to improve performance, these performance issues will
 be fleshed out. In the meantime, you may want to raise your TDP to 10 watts.
+
+#### Recommended Performance Configurations
+
+For all of the configuration settings below, use a TDP of 8 watts. Additionally,
+do **not** disable the frame limiter or enable tearing.
+
+| FPS Target | Shader | In-game FPS Limiter | Refresh Rate Configuration |
+|-|-|-|-|
+| 30 FPS</br>(Default) | Pixel Perfect with</br>Vanilla ++ preset | 30 FPS | 60/90 Hz |
+| 60 FPS | Pixel Perfect with</br>Vanilla + preset | Unlimited | 60 Hz |
+| 90 FPS | VanillAA or none | Unlimited | 90 Hz |
+
+#### Recommended Controller Configuration
+
+Start with the template called "Gamepad with Joystick Trackpad" and make the
+following changes at minimum:
+
+1. Change the right trackpad's behavior to function as a mouse
+2. Set the right trackpad's click to perform a mouse left click
+
+Optionally, you can create a virtual menu for the left trackpad. My virtual menu
+is configured with the following entries:
+
+- Open the map with the `M` key
+- Create a waypoint with the `B` key
+- Reload shaders with the `R` key (useful for debugging)
