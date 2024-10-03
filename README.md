@@ -16,10 +16,10 @@ This modpack introduces a change to tree farming with the FallingTree mod. When 
 
 Along with FallingTree, this modpack brings additional QoL improvements, including:
 
-    Native controller support, including Steam Deck
-    A minimap and world map
-    Sound mods, including post-processing, UI sounds, and ambient sounds
-    Improvements to the inventory UI and UX
+- Native controller support, including Steam Deck
+- A minimap and world map
+- Sound mods, including post-processing, UI sounds, and ambient sounds
+- Improvements to the inventory UI and UX
 
 ## Preconfigured Settings
 
