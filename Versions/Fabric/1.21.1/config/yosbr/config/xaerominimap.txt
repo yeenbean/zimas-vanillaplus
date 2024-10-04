@@ -7,3 +7,4 @@ allowInternetAccess:false
 updateNotification:false
 compassLocation:1
 minimapShape:1
+module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=false;fromBottom=true;flippedVer=false;flippedHor=false;
