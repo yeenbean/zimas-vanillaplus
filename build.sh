@@ -31,8 +31,11 @@ for dir in */*; do
     target=$(grep -m 1 "minecraft = \"" pack.toml | cut -d '=' -f 2 | tr -d '"' | tr -d ' ')
     echo "Creating $version for $target..."
     mkdir ./build
-    packwiz mr export -o "./build/$version+$target-zimas-vanillaplus.mrpack"
-    packwiz cf export -o "./build/$version+$target-zimas-vanillaplus.zip"
+    packwiz mr export -o "./build/Zimas_VanillaPlus-$version+$target.mrpack"
+    #packwiz cf export -o "./build/$version+$target-zimas-vanillaplus.zip"
+    cd ./build
+    unzip Zimas_VanillaPlus-$version+$target.mrpack
+    cd ../
 
     # return to top directory
     cd ../../
