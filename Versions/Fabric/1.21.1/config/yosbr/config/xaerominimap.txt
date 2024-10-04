@@ -1,0 +1,9 @@
+ignoreUpdate:0
+settingsButton:false
+differentiateByServerAddress:true
+radarHideInvisibleEntities:true
+allowInternetAccess:false
+#INGAME SETTINGS (DO NOT EDIT!)
+updateNotification:false
+compassLocation:1
+minimapShape:1
