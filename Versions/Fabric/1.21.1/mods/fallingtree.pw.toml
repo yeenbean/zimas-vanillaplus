@@ -1,6 +1,6 @@
 name = "FallingTree"
 filename = "FallingTree-1.21.1-1.21.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/c04fsPim/FallingTree-1.21.1-1.21.1.2.jar"
