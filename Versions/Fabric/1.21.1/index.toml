@@ -41,8 +41,8 @@ file = "icon.png"
 hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
 
 [[files]]
-file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "1effb00f5e92c2121f0c1663e1de9dae42b355597807cd55135ab7583f3a5232"
+file = "mods/advancement-plaques.pw.toml"
+hash = "9329663d157d0dfa1c9a5a4c5ccad1d1c5042759527ce503ed46804fe1c357f3"
 metafile = true
 
 [[files]]
