@@ -33,10 +33,6 @@ file = "config/xaerominimap_entities.json"
 hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
-file = "create-release.sh"
-hash = "6e1836d2230671179e67ff7e63e7cd9079046ca70d8f56193c8996697c75ca54"
-
-[[files]]
 file = "icon.png"
 hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
 
