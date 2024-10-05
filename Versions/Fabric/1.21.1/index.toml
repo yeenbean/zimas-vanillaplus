@@ -5,12 +5,12 @@ file = "config/fallingtree.json"
 hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
-
-[[files]]
 file = "config/sodium-options.json"
 hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
