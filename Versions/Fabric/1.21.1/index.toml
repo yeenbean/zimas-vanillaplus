@@ -46,7 +46,7 @@ hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
+hash = "792c50a558b5257790ed853f31d22ed12d5e41b22ba2be524600024709964779"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -66,7 +66,7 @@ hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
 
 [[files]]
 file = "icon.png"
-hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
+hash = "7f079d09aaf2a9557f771390304f4155962a7f2ca2c74b81c873beae84baaf3c"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
