@@ -1,42 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build/modrinth.index.json"
-hash = "822674268d85e29adbd505630255b4146fb8be8b719d4541a0120412f1805778"
-
-[[files]]
-file = "build/overrides/config/fallingtree.json"
-hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
-
-[[files]]
-file = "build/overrides/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
-
-[[files]]
-file = "build/overrides/config/sodium-options.json"
-hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
-
-[[files]]
-file = "build/overrides/config/yosbr/config/iris.properties"
-hash = "20cd80c4cdfd8964860f200b905cc88eab70a2420d9f876772ea0d68bf742ef1"
-
-[[files]]
-file = "build/overrides/config/yosbr/config/sodium-extra-options.json"
-hash = "6f40c73a46d6bcddd36dcf30727f8ab82f6a0a1bc6d1807604b6e03811cb6925"
-
-[[files]]
-file = "build/overrides/config/yosbr/config/xaerominimap.txt"
-hash = "41bb35305c1445ee59491b93e18348e82f80d877e5904ef1df91b97f839077cb"
-
-[[files]]
-file = "build/overrides/config/yosbr/options.txt"
-hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
-
-[[files]]
-file = "build/overrides/icon.png"
-hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
-
-[[files]]
 file = "config/fallingtree.json"
 hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
 
@@ -66,7 +30,7 @@ hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
 
 [[files]]
 file = "icon.png"
-hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
+hash = "7f079d09aaf2a9557f771390304f4155962a7f2ca2c74b81c873beae84baaf3c"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
