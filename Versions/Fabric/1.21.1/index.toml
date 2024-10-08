@@ -2,39 +2,35 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "cec2578b03372ef1612c5b039d736849bf168fc91e486d6d1ff02f5965c90032"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
-
-[[files]]
-file = "config/iris.properties"
-hash = "d3120bd3ec3d545f27795c311541b756180db0f6138b0f26ab8176c23831e5d2"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "2e4fb932c4415cc26426066150ffb470ca5349ebeb76fa05a5e97f76000928b0"
+hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "1503c233d12e013c1552d6c51f77fe230ff2c1e38810c6ef28ce3205ac047a4b"
+hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
-hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "2540d9be73a1b1703951808d5322e4be54cc70daac5762b29ec51d2b0590a1bd"
+file = "config/yosbr/config/iris.properties"
+hash = "20cd80c4cdfd8964860f200b905cc88eab70a2420d9f876772ea0d68bf742ef1"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "6f40c73a46d6bcddd36dcf30727f8ab82f6a0a1bc6d1807604b6e03811cb6925"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "41bb35305c1445ee59491b93e18348e82f80d877e5904ef1df91b97f839077cb"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
 
 [[files]]
 file = "icon.png"
-hash = "e560f196d87a49f623c4dd4cc3f0eb0540dec08189352111bb5d93c425bfd6e3"
+hash = "7f079d09aaf2a9557f771390304f4155962a7f2ca2c74b81c873beae84baaf3c"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -98,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "9f6dcd9dd7ba6ec3300d32aa295825e7af4505a6ffdaae52df8105dd2a808e79"
+hash = "b394373d77c6a3cdd79839455871b47576649a10db22f9002e117549c78de160"
 metafile = true
 
 [[files]]
@@ -217,8 +213,9 @@ hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "e9da0d9683b7624a2142ae241e94d2302b37f2bd7275a98a59b3500f38f34a45"
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
