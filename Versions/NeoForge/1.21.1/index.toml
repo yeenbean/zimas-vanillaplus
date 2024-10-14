@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
+
+[[files]]
+file = "config/iris.properties"
+hash = "20cd80c4cdfd8964860f200b905cc88eab70a2420d9f876772ea0d68bf742ef1"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "6f40c73a46d6bcddd36dcf30727f8ab82f6a0a1bc6d1807604b6e03811cb6925"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "41bb35305c1445ee59491b93e18348e82f80d877e5904ef1df91b97f839077cb"
+
+[[files]]
+file = "icon.png"
+hash = "10c7a7ef97c85bb40f9c64d210f8ba8e0831ec4a21f0fa39794d5ed3be6b5c6c"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "a01b3728ecc41fa701b903f08cebee8db6e473c93f1e66ded40b8e81e139615c"
 metafile = true
@@ -139,6 +167,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "540dbf01bde6716c0f481cbc52767ad5fba044865d25c6c7e7ed3f6ef32a6b99"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
