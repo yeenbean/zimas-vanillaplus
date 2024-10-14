@@ -1,0 +1,16 @@
+name = "Zima's Vanilla+ (Neo Edition)"
+author = "ZIMA"
+version = "1.1.0.a3+neo"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e14acbc9f2eec5e499139661081326e3b148c3a70b388638cc5a43fed2b73efa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.69"
+
+[options]
+acceptable-game-versions = ["1.21"]

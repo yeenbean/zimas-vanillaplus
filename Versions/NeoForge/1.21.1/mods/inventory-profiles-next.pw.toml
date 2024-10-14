@@ -1,0 +1,13 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-neoforge-1.21-2.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/kEpUpMux/InventoryProfilesNext-neoforge-1.21-2.0.6.jar"
+hash-format = "sha512"
+hash = "ecc1728822244d604466ca7b9669a644a148d7839fd3d73a157ef4589b2c788d57d8e0b0c4db18d32df49e6e4568f14d13809b5aed0d32844c7cf2eb0f92f628"
+
+[update]
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "kEpUpMux"

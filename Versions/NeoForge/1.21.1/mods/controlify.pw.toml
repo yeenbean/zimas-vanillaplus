@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "Controlify-2.0.0-beta.14+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/aRfesuRq/Controlify-2.0.0-beta.14%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "8165ff1abbc1cd9750ec63349cf1bf82f11fc878863b3198a1801f89135f84c4e26b1db8cc780a2a81ebfa9ce07157d20537023ba6bad262eeeae7fcf1dfbd44"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "aRfesuRq"

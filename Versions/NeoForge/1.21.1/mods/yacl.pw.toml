@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-3.5.0+1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/sjARwr7i/YetAnotherConfigLib-3.5.0%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "7166825229d8b70ef2fa0548e3775c658ab4b174587978b94b31f21dcbfe57b36e6ff086e8a76988eec472d0064128b07d60beb73e889448b504d1fb73d1994f"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "sjARwr7i"

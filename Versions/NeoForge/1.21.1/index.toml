@@ -1,0 +1,183 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "8b40fd35b61076750bede02c34a170f941a23fb19f3ad5582fd4c839c2e6e0ea"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b1a8a44a1f9b4ab3b664d7112605b49303978aff5296e507ab7f272af0d73683"
+
+[[files]]
+file = "config/iris.properties"
+hash = "20cd80c4cdfd8964860f200b905cc88eab70a2420d9f876772ea0d68bf742ef1"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "6f40c73a46d6bcddd36dcf30727f8ab82f6a0a1bc6d1807604b6e03811cb6925"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "bc5b3bed43f75a3b98fc271f484a3882be13e58f8d9d158f8535e3290f9a1c4c"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "41bb35305c1445ee59491b93e18348e82f80d877e5904ef1df91b97f839077cb"
+
+[[files]]
+file = "icon.png"
+hash = "10c7a7ef97c85bb40f9c64d210f8ba8e0831ec4a21f0fa39794d5ed3be6b5c6c"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "a01b3728ecc41fa701b903f08cebee8db6e473c93f1e66ded40b8e81e139615c"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "0247ac9dac37b9b4a7a9672ca9eb060d5e72c57d58f62c133687007e2c994289"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "155a4152404d8bb5aadd0229c51d500bfb552724f28d8c42cd1128e316c4194b"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "da31a5a75c5d2927ea982fd6f9ffedf1fb148c19c96e6c070db8f530150aaca6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "81de71fb35813b75ba5dba0d06967fae5c2e67d8804949e313e9aeb7988a36e5"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "dfbfccc2afc455559a11dc6a286285453aedf4b813ab0e273e08a7434c5a8c4d"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "0679e133ef7b8a45313cc52281ae739f4bddcb3508a453f05adb6906454e4ae4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a2cd19e6253751611088b895a64a65c96ef859250e128d39f4b24e6f2dd96196"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "fd5dfbbe1d3e40b390df5f8ad8e4ddc7aee310c73db483482dc932466d48d951"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e3f21351db825d9ae44f37867b752fb26aee629a4e02a4f30a89f567114989cd"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "399cf2f851b74174bbd13849e8311b66ccff484d9b95f4c9097341645e0c2d2e"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "9273ae4100fc1fd36166a85e47e0687e51b4403971456c3f5953bebeb19638c4"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a80d533d709fa41f9a34ef71ecbc25093a0f1e63d3dc30ba022e50972cf246c7"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "3f36782b6d43627d5ff48312af5ae79d992847253aad2c0c2a77c5555a69569d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c0cc4c8a122ced5fd433fa000e24ce17bee3c49f9009babfddd2e54ba4f54d49"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "709a01e949975ef624c4fbeabb1d8a2339eb50709d2b3e1e84732ca31f341c4d"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "55e244a235ff7680a1fa062ae7ed9a22a55b20d0be5bb2009f039ef632615c27"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "7e2fd62bc37c92bd5a9fd7789f6b948d831945041d69ee6664c88fb9f9209897"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "dc72c14dd20cb7e02a9aae8828bc1a04b428d660b1a87b5b35ff274db34071e1"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "4a1505d9edf2836f0efd65329fc12be2bb5be8d3e14ad86a8486cff562574d53"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8a7eb6c4dd2b3bbdfb5ec78bebdcd0b83972ce2c1eca3a0a34cda12239a6a256"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "136af8fc684ffffe3570c0c438a5d05787cf36a390fbb81a133a721f21f457a7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8d8c65c71503e4e876085e2b8293413a7e90d9ec29d1804c554eda0a958cab06"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "430982397d81ffa880923a6ae0dc7a95e31843fdcb94614d4c0148ac497b93a9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "540dbf01bde6716c0f481cbc52767ad5fba044865d25c6c7e7ed3f6ef32a6b99"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20462290e455b7c988aaccbcaaa6f6c5f303c08d37dbdc2001eb412ce12f5eaa"
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "620854c1c59f278f2047715ce620bb5cb9af4aa28906116322a44be01289dff6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pixel-perfect.pw.toml"
+hash = "4ce28554a6e885ada8f37d46b787154a4db59847b9ef724e770bce29151dc1ec"
+metafile = true
