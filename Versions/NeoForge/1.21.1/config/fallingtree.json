@@ -1,0 +1,8 @@
+{
+  "trees": {
+    "maxSize": 100
+  },
+  "tools": {
+    "durabilityMode": "BYPASS"
+  }
+}
