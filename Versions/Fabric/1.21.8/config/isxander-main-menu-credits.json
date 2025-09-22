@@ -1,0 +1,13 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Zima's Vanilla+ 2.0.0",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://github.com/yeenbean/zimas-vanillaplus"
+                }
+            }
+        ]
+    }
+}

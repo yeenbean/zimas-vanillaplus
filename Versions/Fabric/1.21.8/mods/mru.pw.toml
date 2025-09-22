@@ -1,0 +1,13 @@
+name = "M.R.U"
+filename = "mru-1.0.20+edge+1.21.8+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/OzJYvgxI/mru-1.0.20%2Bedge%2B1.21.8%2Bfabric.jar"
+hash-format = "sha512"
+hash = "b9ff0e15619b0f9cf7ba33a12b6c0c0f293746c6ba1a48215c0cd11196b08af0bbb81c5c3c00c1dda013df4820a23e4e3e0e3c74602d13072a6b0c3946933844"
+
+[update]
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "OzJYvgxI"

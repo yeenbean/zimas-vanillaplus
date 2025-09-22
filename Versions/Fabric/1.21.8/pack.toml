@@ -1,0 +1,13 @@
+name = "Zima's Vanilla+"
+author = "zima"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "075b9266ffe5dfa49834f05b2dc063b082090cc19ffa44ab79979c0f181e319d"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"

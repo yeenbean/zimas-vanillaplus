@@ -11,9 +11,9 @@ minor QoL improvements to the vanilla Minecraft experience. Unlike other vanilla
 modpacks, Zima's Vanilla+ uses as few mods as possible to minimize impact on
 performance.
 
-Zima's Vanilla+ comes in two editions: NeoForge and Fabric. The editions are
-identical, with the exception of Euphonium replacing AmbientSounds in the Fabric
-variant.
+> ⚠️ **A note about the NeoForge variant**
+>
+> This modpack is now based on Fabulously Optimized, which means the NeoForge variant is no longer being maintained.
 
 ---
 
@@ -23,25 +23,43 @@ This modpack introduces a change to tree farming with the FallingTree mod. When
 players chop down a tree with an axe, the entire trunk will break instantly into
 logs. The number of logs broken will still affect the axe's durability. If the
 player's axe breaks while chopping a tree, the entire tree will still fall.
-FallingTree will not interfere with vanilla servers, and you can leave it
-enabled when joining them.
+FallingTree **will not interfere with vanilla servers, and you can leave it
+enabled when joining them.**
 
 Along with FallingTree, this modpack brings additional QoL improvements,
 including:
 
 - Native controller support, including Steam Deck.
 - A minimap and world map.
-- Sound mods, including post-processing, UI sounds, and ambient sounds.
+- Sound mods, including post-processing and UI sounds.
 - A better first-person experience.
 - Improvements to the inventory UI and UX.
 
+A complete list of mods I have curated for this pack, excluding those already found in Fabulously Optimized:
+
+| Mod | Customized options, if any |
+| - | - |
+| Controlify | Disabled enhanced Steam Deck driver due to a bug. |
+| Distant Horizons | Configured to use the "Low" preset, and distance is set to 32 chunks.|
+| Dynamic Crosshair | |
+| FallingTree | |
+| First Person Model | |
+| Inventory Profiles Next | No first run notification, continuous crafting is disabled, and some non-enchanted items are allowed to break.|
+| Jade | |
+| JourneyMap | Configured to be in the lower-right hand side of the screen, which keeps it out of the way of controller button tooltips.|
+| Presence Footsteps | |
+| Shoulder Surfing Reloaded | |
+| Simple Voice Chat | |
+| Sounds | |
+| Sound Physics Remastered | |
+
 ## Preconfigured Settings
 
-By default, the game comes with the Pixel Perfect shaderpack enabled, and a
+By default, the game comes with the Super Duper Vanilla shaderpack enabled, and a
 capped framerate of 30 FPS. This is to prevent overheating on laptop devices or
 low-end machines. Desktop players may want to adjust their framerate cap on
 first launch. Players with low-performance machines may want to consider
-switching to the VanillAA shaderpack or disabling shaders altogether.
+switching to the MakeUp Ultra Fast shaderpack or disabling shaders altogether.
 
 ## Steam Deck Setup
 
@@ -139,15 +157,3 @@ game:
 | Disable Frame Limit | On | Turn this off to decrease latency, as we're using the game's built-in frame limiter. |
 | Allow Tearing | On | For the same reasons as above. |
 | TDP Limit | 8-9 Watts | Not required, but I build and test this pack at 8 watts. Setting this to 8-9 watts will reduce heat and conserve some additional battery power. Highly recommended if you choose to play without a framerate cap + VSync disabled. |
-
-In addition to the above, here are a few configuration options that work well
-for me. Leave the built-in VSync option enabled to keep frames smooth.
-
-**Do not turn off VSync without capping your framerate.** I am not responsible
-if you melt your Steam Deck.
-
-| FPS Target | Shader | In-game FPS Limiter | Refresh Rate Configuration |
-|-|-|-|-|
-| 30 FPS</br>(Default) | Pixel Perfect with</br>Vanilla ++ preset | 30 FPS | 60/90 Hz |
-| 60 FPS | Pixel Perfect with</br>Vanilla + preset | Unlimited | 60 Hz |
-| 90 FPS | VanillAA or none | Unlimited | 90 Hz |
