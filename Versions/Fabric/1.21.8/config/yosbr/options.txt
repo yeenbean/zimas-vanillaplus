@@ -13,6 +13,7 @@ simulationDistance:8
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
+fullscreen:true
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
