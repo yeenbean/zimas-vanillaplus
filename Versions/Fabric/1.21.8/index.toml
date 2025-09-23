@@ -10,7 +10,7 @@ hash = "cdf5a88ce3209fde3e9d137cf8fd3a32704abb1c393a1fc6f3cd91eb66e6c0ed"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "05c2e09b9d86a64232e0e1f53ba2edf7a2d5489515f130851436ad817d008dea"
+hash = "765db2c65b4ea1d7737b06ec6e453d768486aadde46bd7f15e89bfa856ce1a5c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -101,6 +101,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "6590e72ac179919bb797d20815b5de60b7f77e972c1f5cca440837788be7d047"
 
 [[files]]
+file = "config/yosbr/config/shouldersurfing-client.toml"
+hash = "bf8b005bf953705f62ef8ba3af18e4ddc436cedf7c920b61b689e3ba5adfa1e9"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "6ccc8e2fa229b266836389ceaaf2aafa6504463ccd297015eea39f8a3464a0c2"
 
@@ -114,7 +118,7 @@ hash = "c00a84f444ab361ce31f8d605efc4950302190424d7cde3705d82eb6da275eb0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dbd2340a1a9595cd6a26a86ac3e9eb133bafa1a0603f8abd6833e4e256f2f506"
+hash = "bb33b879e7c6d217a20e9c6ef003b66e5418879d06159e7f29c980867b3857e6"
 
 [[files]]
 file = "mods/animatica.pw.toml"
