@@ -1,12 +1,12 @@
 name = "Zima's Vanilla+"
 author = "zima"
-version = "2.0.0"
+version = "2.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "075b9266ffe5dfa49834f05b2dc063b082090cc19ffa44ab79979c0f181e319d"
+hash = "1002ee88c0d0aa77396dcd0f1e07eba7f7ccab56cc0941c4f680fe41e1c54cad"
 
 [versions]
 fabric = "0.17.2"
