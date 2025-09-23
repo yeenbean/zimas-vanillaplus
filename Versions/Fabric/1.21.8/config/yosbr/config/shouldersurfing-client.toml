@@ -1,0 +1,9 @@
+[camera]
+    keep_camera_out_of_head_distance_multiplier = 1.7
+    fov_override_enabled = true
+    fov_override = 70.0
+[perspective]
+    default_perspective = "SHOULDER_SURFING"
+    replace_default_perspective = true
+[player]
+    hide_player_when_looking_up_angle = 15.0
